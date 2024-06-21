@@ -39,12 +39,16 @@ body {
 
 .address {
     font-style: normal;
+
+}
+
+.tel-mail-address {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-
 }
+
 
 .tel-mail-address:hover {
     color: #404bbf;
@@ -81,6 +85,10 @@ body {
 }
 
 .button-link:hover:focus {
+    background-color: #404BBF;
+}
+
+.button-link:focus {
     background-color: #404BBF;
 }
 
