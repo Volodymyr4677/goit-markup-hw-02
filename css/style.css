@@ -29,11 +29,15 @@ body {
 
 
 
-.link:hover .link:focus {
+.link:hover {
     color: #404bbf;
 }
 
-.tel-mail-addr {
+.link:focus {
+    color: #404bbf;
+}
+
+.address {
     font-style: normal;
     font-size: 16px;
     line-height: 1.5;
@@ -42,7 +46,11 @@ body {
 
 }
 
-.tel-mail-addr:hover:focus {
+.tel-mail-address .address:hover {
+    color: #404bbf;
+}
+
+.tel-mail-address .address:focus {
     color: #404bbf;
 }
 
