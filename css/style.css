@@ -46,7 +46,11 @@ body {
 
 }
 
-.tel-mail-address:hover:focus {
+.tel-mail-address:hover {
+    color: #404bbf;
+}
+
+.tel-mail-address:focus {
     color: #404bbf;
 }
 
@@ -57,7 +61,7 @@ body {
 
 }
 
-.title-button {
+.button-title {
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
@@ -96,19 +100,9 @@ body {
 
 }
 
-.team-card {
+.team {
     background-color: #F4F4FD;
 
-
-}
-
-.team {
-    font-size: 36px;
-    line-height: 1.11;
-    text-align: center;
-    letter-spacing: 0.02em;
-    text-transform: capitalize;
-    color: #2e2f42;
 
 }
 
@@ -119,7 +113,10 @@ body {
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
+
 }
+
+
 
 .team-list {
     background-color: #FFFFFF;
