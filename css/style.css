@@ -25,6 +25,8 @@ body {
     letter-spacing: 0.02em;
 }
 
+
+
 .link:hover:focus {
     color: #404bbf;
 }
@@ -124,7 +126,7 @@ body {
 
 }
 
-.our-portfolio {
+.portfolio {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -134,7 +136,7 @@ body {
 
 }
 
-.feature-2 {
+.portfolio-title {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -142,7 +144,7 @@ body {
     color: #2e2f42;
 }
 
-.feature-2-p {
+.porfolio-lead {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
