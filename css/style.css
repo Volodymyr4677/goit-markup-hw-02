@@ -18,17 +18,18 @@ body {
     color: #2e2f42;
 }
 
-.nav-link {
+
+
+nav.link {
     color: #2e2f42;
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #2e2f42;
 }
 
 
 
-.link:hover:focus {
+nav.link:hover:focus {
     color: #404bbf;
 }
 
