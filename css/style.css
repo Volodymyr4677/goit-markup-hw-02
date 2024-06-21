@@ -18,7 +18,7 @@ body {
     color: #2e2f42;
 }
 
-.site-nav {
+.nav-link {
     color: #2e2f42;
     font-weight: 500;
     line-height: 1.5;
@@ -42,12 +42,12 @@ body {
     color: #404bbf;
 }
 
-.title-button {
+.button-link {
     background-color: #2e2f42;
 
 }
 
-.title {
+.title-button {
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
@@ -70,7 +70,7 @@ body {
     background-color: #404BBF;
 }
 
-.feature {
+.feature-title {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -79,7 +79,7 @@ body {
 
 }
 
-.feature-p {
+.feature-lead {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
@@ -92,7 +92,7 @@ body {
 
 }
 
-.our-team {
+.team {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -102,7 +102,7 @@ body {
 
 }
 
-.feature-1 {
+.team-title {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -111,12 +111,12 @@ body {
     color: #2e2f42;
 }
 
-.team-card {
+.team-list {
     background-color: #FFFFFF;
 
 }
 
-.feature-1-p {
+.team-lead {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
