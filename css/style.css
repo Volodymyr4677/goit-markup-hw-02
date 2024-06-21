@@ -20,7 +20,7 @@ body {
 
 
 
-nav.link {
+.link {
     color: #2e2f42;
     font-weight: 500;
     line-height: 1.5;
@@ -29,7 +29,8 @@ nav.link {
 
 
 
-nav.link:hover:focus {
+.link:hover:focus {
+
     color: #404bbf;
 }
 
