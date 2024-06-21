@@ -46,13 +46,11 @@ body {
 
 }
 
-.tel-mail-address .address:hover {
+.tel-mail-address:hover:focus {
     color: #404bbf;
 }
 
-.tel-mail-address .address:focus {
-    color: #404bbf;
-}
+
 
 .button-link {
     background-color: #2e2f42;
