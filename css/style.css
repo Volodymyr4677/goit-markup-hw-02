@@ -29,8 +29,7 @@ body {
 
 
 
-.link:hover:focus {
-
+.link:hover .link:focus {
     color: #404bbf;
 }
 
